@@ -19,7 +19,6 @@ Interact with the terminal using commands like "catinfo," "cat," "rizz," etc.
 `dance`: Cat dances?
 `whoami`: The terminal's introduction.
 ... and more!
-# Warnings
 
 # Contributing
 Feel free to contribute by adding more fun commands, improving `catinfo` visuals, or enhancing the overall experience. Create a pull request with your changes!
